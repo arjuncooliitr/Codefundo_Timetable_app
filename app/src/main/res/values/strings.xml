@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Codefundo</string>
+    <string name="add_data">ADD DATA</string>
+    <string name="name">Name</string>
+    <string name="id">id</string>
+    <string name="day">day</string>
+    <string name="time">time</string>
+    <string name="subject">subject</string>
+    <string name="delete">Delete</string>
+    <string name="view_all">View All</string>
+    <string name="update">Update</string>
+    <string name="camera">CAMERA</string>
+    <string-array name="day">
+        <item>MONDAY</item>
+        <item>TUESDAY</item>
+        <item>WEDNESDAY</item>
+        <item>THURSDAY</item>
+        <item>FRIDAY</item>
+        <item>SATURDAY</item>
+        <item>SUNDAY</item>
+    </string-array>
+</resources>
